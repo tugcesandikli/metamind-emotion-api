@@ -1,9 +1,6 @@
-flask==3.0.0
-flask-cors==4.0.0
-gunicorn==21.2.0
-deepface==0.0.93
-numpy<2.0.0
-tf-keras
-tensorflow==2.20.0
-opencv-python-headless==4.10.0.84
-protobuf==3.20.3
+flask
+flask-cors
+gunicorn
+deepface
+tensorflow
+opencv-python-headless
